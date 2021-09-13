@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("Mnogo gotin kalkulator")
+root.title("calc")
 # root.iconbitmap('calc.ico')
 
 
